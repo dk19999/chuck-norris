@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chuck-norris/static/css/main.7bdf141b.css",
+    "main.js": "/chuck-norris/static/js/main.504acbd3.js",
+    "static/js/787.6e5b5fb6.chunk.js": "/chuck-norris/static/js/787.6e5b5fb6.chunk.js",
+    "index.html": "/chuck-norris/index.html",
+    "main.7bdf141b.css.map": "/chuck-norris/static/css/main.7bdf141b.css.map",
+    "main.504acbd3.js.map": "/chuck-norris/static/js/main.504acbd3.js.map",
+    "787.6e5b5fb6.chunk.js.map": "/chuck-norris/static/js/787.6e5b5fb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bdf141b.css",
+    "static/js/main.504acbd3.js"
+  ]
+}
